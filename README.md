@@ -1,2 +1,2 @@
-# liblzp-cpp
-lzpong 的 C/C++ 库/工具库
+# liblzp
+lzpong 的 工具代码库 C++/C#/Javascript...
